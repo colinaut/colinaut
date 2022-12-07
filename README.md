@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @colinaut
 - 👀 I’m interested in ... front-end dev, jamstack, 11ty, etc.
 - 🌱 I’m currently learning ... typescript, SvelteKit, and always more javascript stuff
-- 📫 How to reach me ... Twitter: [@colinaut](https://twitter.com/colinaut)
+- 📫 How to reach me ... 
+  - Mastodon: [@colinaut@dice.camp](https://dice.camp/@colinaut)
+  - My main [Colinaut site](https://www.colinaut.com)
+  - My game design site [Mirth Peddlers](https://www.mirthpeddlers.com)
+  - My [Twitter Archive](https://twitter.colinaut.com) built using [Tweetback](https://github.com/tweetback/tweetback)
